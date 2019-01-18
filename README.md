@@ -1,4 +1,4 @@
-# app_watcher
+# Flutter Sqflite demo
 
 A new Flutter application.
 
